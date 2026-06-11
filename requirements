@@ -1,0 +1,22 @@
+ZeroTouch
+
+AI-powered hands-free computer control using facial gestures and head tracking.
+
+Features:
+Head-controlled mouse movement
+Left wink → Left click
+Right wink → Right click
+Eyebrow raise → Scroll up
+Eyebrow furrow → Scroll down
+Head tilt → Horizontal scroll
+Kalman filtering for smooth cursor movement
+Absolute and Velocity control modes
+
+Tech Stack:
+Python
+OpenCV
+MediaPipe Face Mesh
+PyAutoGUI
+NumPy
+
+it also uses pyaudio for voice commands
